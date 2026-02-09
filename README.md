@@ -40,17 +40,14 @@
 
 ## Live demo
 
-[https://yoroxy.onrender.com/](https://yoroxy.onrender.com/)
+[https://tbmw2.vercel.app](https://tbmw2.vercel.app)
 
 ---
 
 ## Bug reports & feedback
 
-For bug reports or suggestions for improvement, please **open an Issue** or contact *Yosshy_123@proton.me*.
+For bug reports or suggestions for improvement, please **open an Issue** or contact *masonbstX
 
-> [!NOTE]
-> If you contact by email, replies may be delayed.
-> If possible, prefer creating an Issue as it is easier to track.
 
 ---
 
